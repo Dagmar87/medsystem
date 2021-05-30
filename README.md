@@ -68,7 +68,7 @@ Nesse projeto foram realizado duas operações CRUD, sendo a primeira as do Medi
 
 URL deste método: http://localhost:8075/medico
 
-![https://github.com/Dagmar87/medsystem/blob/master/imagens/Medico%20-%20findAll.png](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\Medico - findAll.png)
+![https://github.com/Dagmar87/medsystem/blob/master/imagens/Medico%20-%20findAll.png?raw=true](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\Medico - findAll.png)
 
 - FindById => Essa operação irá consultar um determinado medico cadastrado partir do id deste. 
 

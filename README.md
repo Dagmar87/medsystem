@@ -68,43 +68,43 @@ Nesse projeto foram realizado duas operações CRUD, sendo a primeira as do Medi
 
 URL deste método: http://localhost:8075/medico
 
-![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\Medico - findAll.png)
+![https://github.com/Dagmar87/medsystem/blob/master/imagens/Medico%20-%20findAll.png?raw=true](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\imagens\Medico - findAll.png))
 
 - FindById => Essa operação irá consultar um determinado medico cadastrado partir do id deste. 
 
 URL deste método: http://localhost:8075/medico/{id}
 
-![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\Medico - findById.png)
+![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\imagens\Medico - findById.png)
 
 - FindByEsp => Essa operação irá consultar uma lista de médicos cadastrados partir da especialidade destes. 
 
 URL deste método: http://localhost:8075/medico/especialidade/{especialidade}
 
-![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\Medico - findByEsp.png)
+![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\imagens\Medico - findByEsp.png)
 
 - FindByAtivo => Essa operação irá consultar uma lista de médicos cadastrados que são ativos ou inativos. 
 
 URL deste método: http://localhost:8075/medico/tipo/{ativo}
 
-![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\Medico - findByAtivo.png)
+![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\imagens\Medico - findByAtivo.png)
 
 - Create => Essa operação irá criar um novo cadastro de um medico. 
 
 URL deste método: http://localhost:8075/medico
 
-![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\Medico - create.png)
+![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\imagens\Medico - create.png)
 
 - Update => Essa operação irá atualizar os dados de um medico cadastrado.
 
 URL deste método: http://localhost:8075/medico/{id}
 
-![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\Medico - update.png)
+![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\imagens\Medico - update.png)
 
 - Delete => Essa operação irá apagar os dados do medico cadastrado.
 
 URL deste método: http://localhost:8075/medico/{id}
 
-![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\Medico - delete.png)
+![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\imagens\Medico - delete.png)
 
 #### Especialidade
 
@@ -114,31 +114,31 @@ As operações CRUD do Especialidade são divididas em 5 operações que são:
 
 URL deste método: http://localhost:8075/especialidade
 
-![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\Especialidade - findAll.png)
+![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\imagens\Especialidade - findAll.png)
 
 - FindById => Essa operação irá consultar uma determinada especialidade partir do id deste. 
 
 URL deste método: http://localhost:8075/especialidade/{id}
 
-![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\Especialidade - findById.png)
+![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\imagens\Especialidade - findById.png)
 
 - Create => Essa operação irá criar um novo cadastro de uma especialidade.
 
 URL deste método: http://localhost:8075/especialidade
 
-![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\Especialidade - create.png)
+![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\imagens\Especialidade - create.png)
 
 - Update => Essa operação irá atualizar os dados de uma especialidade cadastrada .
 
 URL deste método: http://localhost:8075/especialidade/{id}
 
-![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\Especialidade - update.png)
+![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\imagens\Especialidade - update.png)
 
 - Delete => Essa operação irá apagar os dados da especialidade cadastrada.
 
 URL deste método: http://localhost:8075/especialidade/{id}
 
-![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\Especialidade - delete.png)
+![](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\imagens\Especialidade - delete.png)
 
 #### Resultados das Operações no MySQL
 
@@ -146,12 +146,13 @@ URL deste método: http://localhost:8075/especialidade/{id}
 
 ##### Medico 
 
-![ Resultado das Operações CRUD da classe Medico no MySQL](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\Medico - SQL Resultado.png)
+![ Resultado das Operações CRUD da classe Medico no MySQL](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\imagens\Medico - SQL Resultado.png)
 
 ​							 					Resultado das Operações CRUD do campo Medico no MySQL
 
 ##### Especialidade
 
-![ Resultado das Operações CRUD da classe Especialidade no MySQL](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\Especialidade - SQL Resultado.png)
+![ Resultado das Operações CRUD da classe Especialidade no MySQL](C:\Users\JOSE DADMAR\Documents\FUCTURA TECNOLOGIAS\Extras\Desafio WIPRO\imagens\Especialidade - SQL Resultado.png)
 
 ​												Resultado das Operações CRUD do campo Especialidade no MySQL
+

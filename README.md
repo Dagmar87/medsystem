@@ -10,6 +10,7 @@ Esse projeto Spring Boot foi desenvolvido por José Dagmar Florentino da Silva S
 - Spring Data JPA
 - Maven
 - Hibernate
+- Lombok
 - RESTful
 - Apache Tomcat
 - IDE Eclipse

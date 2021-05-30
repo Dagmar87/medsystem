@@ -67,43 +67,43 @@ Nesse projeto foram realizado duas operações CRUD, sendo a primeira as do Medi
 
 URL deste método: http://localhost:8075/medico
 
-![](https://github.com/Dagmar87/medsystem/tree/master/imagens/Medico-findAll.png)
+![FindAll](https://github.com/Dagmar87/medsystem/tree/master/imagens/Medico-findAll.png)
 
 - FindById => Essa operação irá consultar um determinado medico cadastrado partir do id deste. 
 
 URL deste método: http://localhost:8075/medico/{id}
 
-![](https://github.com/Dagmar87/medsystem/tree/master/imagens/Medico-findById.png)
+![FindById](https://github.com/Dagmar87/medsystem/tree/master/imagens/Medico-findById.png)
 
 - FindByEsp => Essa operação irá consultar uma lista de médicos cadastrados partir da especialidade destes. 
 
 URL deste método: http://localhost:8075/medico/especialidade/{especialidade}
 
-![](https://github.com/Dagmar87/medsystem/tree/master/imagens/Medico-findByEsp.png)
+![FindByEsp](https://github.com/Dagmar87/medsystem/tree/master/imagens/Medico-findByEsp.png)
 
 - FindByAtivo => Essa operação irá consultar uma lista de médicos cadastrados que são ativos ou inativos. 
 
 URL deste método: http://localhost:8075/medico/tipo/{ativo}
 
-![](https://github.com/Dagmar87/medsystem/tree/master/imagens/Medico-findByAtivo.png)
+![FindByAtivo](https://github.com/Dagmar87/medsystem/tree/master/imagens/Medico-findByAtivo.png)
 
 - Create => Essa operação irá criar um novo cadastro de um medico. 
 
 URL deste método: http://localhost:8075/medico
 
-![](https://github.com/Dagmar87/medsystem/tree/master/imagens/Medico-create.png)
+![Create](https://github.com/Dagmar87/medsystem/tree/master/imagens/Medico-create.png)
 
 - Update => Essa operação irá atualizar os dados de um medico cadastrado.
 
 URL deste método: http://localhost:8075/medico/{id}
 
-![](https://github.com/Dagmar87/medsystem/tree/master/imagens/Medico-update.png)
+![Update](https://github.com/Dagmar87/medsystem/tree/master/imagens/Medico-update.png)
 
 - Delete => Essa operação irá apagar os dados do medico cadastrado.
 
 URL deste método: http://localhost:8075/medico/{id}
 
-![](https://github.com/Dagmar87/medsystem/tree/master/imagens/Medico-delete.png)
+![Delete](https://github.com/Dagmar87/medsystem/tree/master/imagens/Medico-delete.png)
 
 #### Especialidade
 
@@ -113,31 +113,31 @@ As operações CRUD do Especialidade são divididas em 5 operações que são:
 
 URL deste método: http://localhost:8075/especialidade
 
-![](https://github.com/Dagmar87/medsystem/tree/master/imagens/Especialidade-findAll.png)
+![FindAll](https://github.com/Dagmar87/medsystem/tree/master/imagens/Especialidade-findAll.png)
 
 - FindById => Essa operação irá consultar uma determinada especialidade partir do id deste. 
 
 URL deste método: http://localhost:8075/especialidade/{id}
 
-![](https://github.com/Dagmar87/medsystem/tree/master/imagens/Especialidade-findById.png)
+![FindById](https://github.com/Dagmar87/medsystem/tree/master/imagens/Especialidade-findById.png)
 
 - Create => Essa operação irá criar um novo cadastro de uma especialidade.
 
 URL deste método: http://localhost:8075/especialidade
 
-![](https://github.com/Dagmar87/medsystem/tree/master/imagens/Especialidade-create.png)
+![Create](https://github.com/Dagmar87/medsystem/tree/master/imagens/Especialidade-create.png)
 
 - Update => Essa operação irá atualizar os dados de uma especialidade cadastrada .
 
 URL deste método: http://localhost:8075/especialidade/{id}
 
-![](https://github.com/Dagmar87/medsystem/tree/master/imagens/Especialidade-update.png)
+![Update](https://github.com/Dagmar87/medsystem/tree/master/imagens/Especialidade-update.png)
 
 - Delete => Essa operação irá apagar os dados da especialidade cadastrada.
 
 URL deste método: http://localhost:8075/especialidade/{id}
 
-![](https://github.com/Dagmar87/medsystem/tree/master/imagens/Especialidade-delete.png)
+![Delete](https://github.com/Dagmar87/medsystem/tree/master/imagens/Especialidade-delete.png)
 
 #### Resultados das Operações no MySQL
 
@@ -145,12 +145,12 @@ URL deste método: http://localhost:8075/especialidade/{id}
 
 ##### Medico 
 
-![ Resultado das Operações CRUD da classe Medico no MySQL](https://github.com/Dagmar87/medsystem/tree/master/imagens/Medico-SQLResultado.png)
+![Resultado das Operações CRUD da classe Medico no MySQL](https://github.com/Dagmar87/medsystem/tree/master/imagens/Medico-SQLResultado.png)
 
 ​							 					Resultado das Operações CRUD do campo Medico no MySQL
 
 ##### Especialidade
 
-![ Resultado das Operações CRUD da classe Especialidade no MySQL](https://github.com/Dagmar87/medsystem/tree/master/imagens/Especialidade-SQL Resultado.png)
+![Resultado das Operações CRUD da classe Especialidade no MySQL](https://github.com/Dagmar87/medsystem/tree/master/imagens/Especialidade-SQLResultado.png)
 
 ​												Resultado das Operações CRUD do campo Especialidade no MySQL
